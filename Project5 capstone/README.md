@@ -1,4 +1,4 @@
-# MUSCLE Demonstration
+# Workout Demonstration
 
 
 # CS50W Capstone 
